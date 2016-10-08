@@ -1,0 +1,14 @@
+{
+  "name": "mean-tester",
+  "version": "1.0.0",
+  "description": "A minimal tester for mongodb connection",
+  "main": "test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Brian Bagdasarian",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^4.6.3"
+  }
+}
